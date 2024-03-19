@@ -13,7 +13,7 @@
 </head>
 <body>
 <header>
-<h2>스프링 프레임워크 ver 1.0</h2>
+
 </header>
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
